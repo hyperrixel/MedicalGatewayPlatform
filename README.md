@@ -11,7 +11,7 @@ Medical Gateway Platform is a data driven solution to connect medical hardware o
 
 ## How it works?
 
-Medical Gateway Platform is a large system which involves many use-cases. To have an idea hwo you could use this system and its advantages first of all you have to read one of the next sections of this part. The concrete section depends on who you are and what your goal is.
+Medical Gateway Platform is a large system which involves many use-cases. To have an idea how you could use this system and its advantages first of all you have to read one of the next sections of this part. The concrete section depends on who you are and what your goal is.
 
 ![Architecture](https://github.com/hyperrixel/MedicalGatewayPlatform/blob/master/screenshots/architecture.png "Architecture")
 
